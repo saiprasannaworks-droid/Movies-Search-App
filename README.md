@@ -1,6 +1,6 @@
-# 🎬 Movie Explorer
+# 🎬 Believers Movie Premire
 
-Movie Explorer is a modern React-based movie search application built using the OMDb API. It allows users to search for movies, filter results, view detailed movie information, and browse results with pagination in a clean and responsive user interface.
+Believers Movie Premire is a modern React-based movie search application built using the OMDb API. It allows users to search for movies, filter results, view detailed movie information, and browse results with pagination in a clean and responsive user interface.
 
 ------------------------------------------------------------
 
